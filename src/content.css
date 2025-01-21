@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    margin-right: 35px;
+    font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+  color: white;
+    
+}
+.ContentContainer{
+    position: relative;
+    right: 40px;
+}

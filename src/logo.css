@@ -1,0 +1,12 @@
+a{
+    align-items: center;
+    margin-left: 10px;
+}
+.logocont{
+    display: flex;
+    position: relative;
+    
+    align-items: center;
+    text-align: center;
+    left: 10px;
+}

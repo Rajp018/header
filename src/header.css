@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.HContainer{
+    height: 35px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between; /* Space between elements */
+    align-items: center;
+    position: relative;
+    
+
+}
+.LOGO{
+  margin-right: auto;
+  display: flex;
+  gap: 15px;
+
+
+}
+.CONTENT{
+    position: absolute;
+    margin-left: auto; /* Push the content div to the right-most corner */
+  display: flex;     /* Use flexbox for spacing child elements */
+    
+    
+}
